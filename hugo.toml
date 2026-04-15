@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+languageCode = 'zh-CN'
+title = '我的网安学习笔记'
+theme = 'PaperMod'
+
+[params]
+  author = 'TheCake1sALie'
+  description = '记录网络空间安全的学习与项目心得'
