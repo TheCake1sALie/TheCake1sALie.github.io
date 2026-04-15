@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://thecake1salie.github.io/'
 languageCode = 'zh-CN'
 title = '我的网安学习笔记'
 theme = 'PaperMod'
