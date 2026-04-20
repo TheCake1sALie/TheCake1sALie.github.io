@@ -1,7 +1,7 @@
 baseURL = 'https://thecake1salie.github.io/'
 languageCode = 'zh-CN'
 defaultContentLanguage = 'zh-CN'
-title = '我的网安学习笔记'
+title = 'CSE Learning'
 theme = 'reimu'
 
 [languages]
