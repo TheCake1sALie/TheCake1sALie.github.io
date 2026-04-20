@@ -3088,6 +3088,14 @@ mjx-container::-webkit-scrollbar {
   transform: scale(1.2);
 }
 
+.icon-github {
+  color: #191717;
+}
+
+[data-theme="dark"] .icon-github {
+  color: #bc88ff;
+}
+
 .sidebar-menu {
   margin: 20px 0;
   width: 100%;

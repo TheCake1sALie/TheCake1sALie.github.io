@@ -64,7 +64,7 @@ banner_srcset:
     - src: "images/banner.webp"
       media: "(min-width: 800px)"
 
-avatar: "avatar.webp"
+avatar: "GLaDOS_sqrt.jpg"
 
 # Control the display of the post cover
 # If not set, the banner image will be displayed by default
