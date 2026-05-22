@@ -3,7 +3,7 @@ categories: ["nasa-cFS学习"]
 tags: ["Linux", "nasa-cFS" , "OS"]
 title: "nasa-cFS/README.md解释"
 date: 2026-05-15
-draft: True
+draft: false
 ---
 
 deepseek解释github/cFS/README.md
@@ -366,4 +366,4 @@ be compiled and to the .scr file to be dynamically loaded at runtime.
 2.  搭建地面系统，尝试发送 `noop` 指令并观察遥测。
 3.  把成功运行的截图或日志记录下来，作为你项目的第一个里程碑。
 
-当你亲手让这个“航天系统”在你的电脑上活起来的那一刻，你对它的理解和感觉会完全不同。一旦你完成了这个环境搭建，我们就可以进一步深入到具体的源码模块（比如软件总线 cFE SB）和已经公开的 CVE 漏洞分析中。有任何卡住的地方，随时告诉我，我们一步步解决。
+当你亲手让这个“航天系统”在你的电脑上活起来的那一刻，你对它的理解和感觉会完全不同。一旦你完成了这个环境搭建，我们就可以进一步深入到具体的源码模块（比如软件总线 cFE SB）和已经公开的 CVE 漏洞分析中。

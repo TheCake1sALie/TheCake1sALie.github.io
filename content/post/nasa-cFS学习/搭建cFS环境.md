@@ -3,7 +3,7 @@ categories: ["nasa-cFS学习"]
 tags: ["Linux", "nasa-cFS" , "OS"]
 title: "从零搭建cFS环境"
 date: 2026-05-15
-draft: True
+draft: false
 ---
 
 选择Deepseek辅助指导
