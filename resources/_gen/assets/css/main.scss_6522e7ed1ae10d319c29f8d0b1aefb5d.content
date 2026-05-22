@@ -2416,11 +2416,68 @@ mjx-container::-webkit-scrollbar {
 .chroma .nd,
 .chroma .ni,
 .chroma .ne,
+.chroma .nf,
 .chroma .fm,
 .chroma .nn,
 .chroma .nx,
 .chroma .py {
+  color: var(--highlight-foreground);
+}
+
+.chroma .nv,
+.chroma .vc,
+.chroma .vg,
+.chroma .vi {
+  color: var(--highlight-blue);
+}
+
+.chroma .o,
+.chroma .ow {
+  color: var(--highlight-purple);
+}
+
+.chroma .p {
+  color: var(--highlight-foreground);
+}
+
+.chroma .gp {
   color: var(--highlight-comment);
+}
+
+.chroma .go {
+  color: var(--highlight-comment);
+}
+
+.chroma .gt {
+  color: var(--highlight-red);
+}
+
+.chroma .ge {
+  font-style: italic;
+}
+
+.chroma .gs {
+  font-weight: bold;
+}
+
+.chroma .err {
+  color: var(--highlight-red);
+}
+
+.chroma .gr {
+  color: var(--highlight-red);
+}
+
+.chroma .gh {
+  color: var(--highlight-comment);
+}
+
+.chroma .w {
+  color: var(--highlight-foreground);
+}
+
+.chroma .bp {
+  color: var(--highlight-orange);
 }
 
 .chroma .hl {

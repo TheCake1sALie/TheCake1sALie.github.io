@@ -4,6 +4,11 @@ defaultContentLanguage = 'zh-CN'
 title = 'CSE Learning'
 theme = 'reimu'
 
+[markup]
+  [markup.highlight]
+    codeFences = true
+    noClasses = false
+
 [languages]
   [languages.zh-CN]
     languageName = '简体中文'
