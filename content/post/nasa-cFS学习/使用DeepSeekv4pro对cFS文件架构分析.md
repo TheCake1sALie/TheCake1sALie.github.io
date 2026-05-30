@@ -3,7 +3,7 @@ categories: ["nasa-cFS学习"]
 tags: ["Linux", "nasa-cFS" , "OS"]
 title: "使用DeepSeekv4pro对cFS文件架构分析"
 date: 2026-05-19
-draft: True
+draft: false
 ---
 
 ---
@@ -294,6 +294,4 @@ make <config>.<goal>
 
 ---
 
-**总结**: cFS 是一个组织良好的模块化航天软件框架，采用 submodule 方式管理组件，CMake + Makefile 构建系统。代码结构清晰，文档完善。安全审计的核心切入点在于 **SB 软件总线**（IPC 消息通信）和各应用的外部接口。下一步建议从 `cfe/modules/sb/` 的源码开始深入分析。
-
-> 准备就绪。请指定你要分析的第一个具体源文件，我将开始进行安全审计。
+**总结**: cFS 是一个组织良好的模块化航天软件框架，采用 submodule 方式管理组件，CMake + Makefile 构建系统。代码结构清晰，文档完善。安全审计的核心切入点在于 **SB 软件总线**（IPC 消息通信）和各应用的外部接口。
