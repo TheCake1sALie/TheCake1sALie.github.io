@@ -100,9 +100,9 @@ GroundSystem 是 cFS 的**地面站模拟软件**，用于在开发/测试阶段
 
 | 列名 | 含义 | 示例值 |
 |------|------|--------|
-| Subsystem | 子系统名称 | Executive Services |
+| Subsystem/Page | 子系统名称 | Executive Services |
 | Packet ID | CCSDS 消息 ID | 0x1806 |
-| Destination | 目标 IP 地址 | 127.0.0.1 |
+| Send To | 目标 IP 地址 | 127.0.0.1 |
 
 **按钮说明**：
 
